@@ -1,6 +1,6 @@
 # Geek Hunters
 
-This is a Windows Forms Application, that displays all the Candidates and the technologies/skills they posses.
+This is a Windows Forms Application, that displays all the Candidates and the technologies/skills they possess.
 It lets the user register a new candidate and even edit them.
 It has a filter system to display all candidates that may have atleast one of the selected filters.
 
